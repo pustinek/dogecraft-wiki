@@ -29,3 +29,14 @@
       name: "ranks"
       id: "section-ranks"
       class: "wiki-section"
+- id: "rules"
+  link: /rules
+  name: "rules"
+  description: "Rules accross all our servers"
+  dropdown:
+    img: hand.svg
+  sections:
+    - file: "basic.md"
+      name: "basic"
+      id: "section-basic"
+      class: "wiki-section"
