@@ -1,10 +1,10 @@
-console.log("wiki-navigation.js");
+
 
 
 window.onload = event => {
   const sectionMargin = 50;
-  let currentActive = 0;
-
+  let currentActive = 0; 
+  console.log("wiki.js script successfully loaded !");
 
 
 
@@ -33,9 +33,7 @@ window.onload = event => {
   const removeActive = link => menu_links[link].classList.remove("--active");
   const removeAllActive = () =>
     [...Array(sections.length).keys()].forEach(link => removeActive(link));
-    console.log("onscroll");
   window.onscroll = () => {
-    console.log("onscroll");
     const current =
       sections.length -
       [...sections].reverse().findIndex(section => {
