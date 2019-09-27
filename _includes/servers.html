@@ -1,0 +1,32 @@
+<div class="home">
+  <div class="container --text-center">
+    <h2>Getting stared</h2>
+    <div class="intro">
+      <p>
+        Welcome to dogecraft wiki page, you will find information of all the
+        features that are available acrose our servers :)
+      </p>
+    </div>
+    <div class="home__servers">
+      {% for item in site.data.servers %}
+      <div class="card home__server">
+        <div class="card__content">
+          <div class="icon-holder">
+            <img
+              src="/assets/img/{{ item.dropdown.img }}"
+              alt=""
+              height="55px"
+            />
+          </div>
+          <h2 class="home__server-title">{{ item.name }}</h2>
+          <div class="home__server-intro">
+            {{ item.description }}
+          </div>
+
+          <a href="{{ item.link }}" class="home__server-link"> </a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

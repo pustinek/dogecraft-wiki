@@ -1,0 +1,4 @@
+exclude:
+  - design
+sass:
+  style: compressed

@@ -1,0 +1,23 @@
+<div class="dropdown">
+        {% for server in site.data.servers %}
+          {% if page.url == server.link %}
+        <button class="dropbtn">
+                <img src="/assets/img/{{ server.dropdown.img }}" alt="" height="16px"
+                width="16px">
+                <span class="dropbtn__title">{{ server.name }}</span>
+          <!-- <i class="fa fa-caret-down"></i> -->
+          <img src="/assets/img/caret-down-solid.svg" alt="" height="16px" class="dropdown__icon">
+        </button>
+          {% endif %}
+        {% endfor %}
+        <div class="dropdown-content">
+          {% for server in site.data.servers %}
+            <a href="{{ server.link }}" {% if page.url == server.link %}class="current"{% endif %}>
+                    <img src="/assets/img/{{ server.dropdown.img }}" alt="" height="16px"
+                    width="16px">
+                    <span>{{ server.name }}</span>
+              
+            </a>
+          {% endfor %}
+        </div>
+      </div> 

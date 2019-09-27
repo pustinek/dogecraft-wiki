@@ -1,0 +1,40 @@
+.nav {
+    grid-area: nav;
+    display: flex;
+    width: 100%;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    background: #ffffff;
+    color: $color-text-main;
+    // border-top: 5px solid #40babd;
+    //     border-top-color: rgb(64, 186, 189);
+    padding: 15px;
+    font-family: "Montserrat", sans-serif;
+    &__links {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        margin-right: 35px;
+    }
+    &__link {
+        padding: 5px;
+        &:hover { 
+            color: $color-nav-hover;
+        }
+    }
+    &__branding {
+        position: relative;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        font-size: 2.5rem;
+
+        .branding__title {
+            margin-left: 1rem;
+        }
+        .branding__link {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

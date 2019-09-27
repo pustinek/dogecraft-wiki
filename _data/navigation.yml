@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: forums
+  link: https://dogecraft.net/
+- name: store
+  link: https://store.dogecraft.net/

@@ -1,0 +1,31 @@
+- id: "survival"
+  link: /survival
+  name: "survival"
+  description: "Check out the tutorial for survival"
+  dropdown:
+    img: diamond-pickaxe.svg
+  sections:
+    - file: "started.md"
+      name: "started"
+      id: "section-started"
+      class: "wiki-section"
+    - file: "ranks.md"
+      name: "ranks"
+      id: "section-ranks"
+      class: "wiki-section"
+  
+- id: "skyblock"
+  link: /skyblock
+  name: "skyblock"
+  description: "Check out all the options for skyblock"
+  dropdown:
+    img: creaper.svg
+  sections:
+    - file: "started.md"
+      name: "started"
+      id: "section-started"
+      class: "wiki-section"
+    - file: "ranks.md"
+      name: "ranks"
+      id: "section-ranks"
+      class: "wiki-section"
