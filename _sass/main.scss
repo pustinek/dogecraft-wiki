@@ -51,37 +51,6 @@ a {
   padding-left: 0;
 }
 
-.wiki {
-  display: grid;
-  grid-gap: 20px;
-  grid-template-areas:
-    "nav nav"
-    "sidebar content";
-  grid-template-columns: 250px auto;
-
-  &__sidebar {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    padding: 15px;
-    height: 25vh;
-    display: flex;
-    flex-direction: column;
-    grid-area: sidebar;
-  }
-
-  &__content {
-    grid-area: content;
-    padding-bottom: 700px;
-  }
-  &__link {
-    transition: color 0.05s;
-    color: $color-text-main;
-    &.--active {
-      color: $color-nav-text-active;
-    }
-  }
-}
 
 .sidebar {
   &__item {
