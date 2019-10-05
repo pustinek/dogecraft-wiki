@@ -5,11 +5,11 @@
   dropdown:
     img: diamond-pickaxe.svg
   sections:
-    - file: "Claiming_Land.md"
+    - file: "claiming_land.md"
       name: "Claiming land"
       id: "section-claiming_land"
       class: "wiki-section"
-    - file: "Custom_Ores.md"
+    - file: "custom_ores.md"
       name: "Custom ores"
       id: "section-custom_ores"
       class: "wiki-section"
@@ -40,7 +40,7 @@
       name: "general"
       id: "section-general"
       class: "wiki-section"
-    - file: "Common_sense.md"
+    - file: "common_sense.md"
       name: "Common sense"
       id: "section-common_sense"
       class: "wiki-section"
