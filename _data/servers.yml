@@ -5,13 +5,13 @@
   dropdown:
     img: diamond-pickaxe.svg
   sections:
-    - file: "started.md"
-      name: "started"
-      id: "section-started"
+    - file: "Claiming_Land.md"
+      name: "Claiming land"
+      id: "section-claiming_land"
       class: "wiki-section"
-    - file: "ranks.md"
-      name: "ranks"
-      id: "section-ranks"
+    - file: "Custom_Ores.md"
+      name: "Custom ores"
+      id: "section-custom_ores"
       class: "wiki-section"
   
 - id: "skyblock"
@@ -36,7 +36,15 @@
   dropdown:
     img: hand.svg
   sections:
-    - file: "basic.md"
-      name: "basic"
-      id: "section-basic"
+    - file: "general.md"
+      name: "general"
+      id: "section-general"
+      class: "wiki-section"
+    - file: "Common_sense.md"
+      name: "Common sense"
+      id: "section-common_sense"
+      class: "wiki-section"
+    - file: "punishment_guidelines.md"
+      name: "Punishment guidelines"
+      id: "section-punishment_guidelines"
       class: "wiki-section"

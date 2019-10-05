@@ -3,7 +3,6 @@ layout: docs
 permalink: /rules
 ---
 
-
 <div>
  {% for server in site.data.servers %}
     {% if server.id == "rules" %}

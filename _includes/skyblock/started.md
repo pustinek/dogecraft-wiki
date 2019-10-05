@@ -1,5 +1,2 @@
 
-# Getting strated with skyblock
-
-Getting strated with skyblock
-
+# Skyblock coming  soon !!!!!
