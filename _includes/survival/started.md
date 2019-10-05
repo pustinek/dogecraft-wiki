@@ -9,7 +9,6 @@ To start off, Dogecraft is mainly based around Residence plugins; a replica of t
 
 Protect your land before you even start building to avoid griefers !
 
-As mentioned Dogecraft uses a premium plugin called Residences; a replica of towny with many more features and control over your residence. All the commands and how to's can be found HERE
 
 {% include youtubePlayer.html id="GUolvnAGlsA" %}
 
