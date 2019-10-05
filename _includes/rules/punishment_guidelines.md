@@ -11,4 +11,4 @@
 If you feel like you were unfairly permabanned please appeal on the forums HOWEVER if your punishment lasts less than 24 hours please just serve the time.
 
 
-[//]: <- comment must be here, or the unordered list breaks formating :D
+[//]: <- comment must be here, or the unordered list breaks formating :)
