@@ -1,5 +1,11 @@
 
-# Common Sense
+# General Rules
+
+## Common Sense 
+1. We do not allow duping. Of any kind. ​
+2. Listen to staff. Rules are a guideline. Staff enforce the rules. A nice staff member may forgive your spam, don't expect the next one ( or even the same one ) to forgive you next time. ​
+3. Report glitches you find to staff. Do not ABUSE them. ​
+4. Report issues TO STAFF. Do NOT take matters into your own hands to resolve grief etc.​
 
 ## Alt Accounts 
 1. Do not use more than 2 accounts on the server at one time. More than 2 will get you and the other accounts banned. If you avoid this ban you will be permabanned. 
@@ -8,7 +14,6 @@
 ## Mods/Texturepacks
 1. Any use of the above that gives you an advantage over others is not allowed. If you have questions about particular ones please ask before using them.
 2. NO XRAY.
-
 
 
 ## Staff
