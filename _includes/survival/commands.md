@@ -1,3 +1,6 @@
+
+# Commands
+
 ## Worlds and Warps
     /spawn : Warp to spawn
     /market : Warp to market
