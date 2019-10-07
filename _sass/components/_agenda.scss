@@ -1,0 +1,37 @@
+.agenda {
+  font-family: 'Open Sans', sans-serif;
+  &__container {
+    display: flex;
+    flex-direction: column;
+
+    &.--secondary {
+      overflow:hidden;
+      transition: height 0.3s ease-out;
+      height:auto;
+
+
+      &.--active {
+
+      }
+    }
+  }
+
+  &__link {
+    transition: color 0.05s;
+    color: $color-text-main;
+    padding: 5px 2px 5px 2px;
+    font-size: 1.4rem;
+    transition: all .15s;
+    &.--active {
+      color: $color-nav-text-active;
+      font-weight: 600;
+    }
+    &.--secondary{
+     
+      padding-left: .8rem;
+      margin-left: .5rem;
+      font-size: 1.2rem;
+      // border-left: 1px solid $color-text-dull;
+    }
+  }
+}

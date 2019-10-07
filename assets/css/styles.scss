@@ -1,10 +1,11 @@
 ---
 ---
 @import 'abstracts/variables';
-
+@import 'abstracts/fonts';
 
 @import "main";
 @import 'components/navigation';
+@import 'components/agenda';
 @import 'components/card';
 @import 'components/footer';
 @import "layout/home";
