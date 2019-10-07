@@ -23,27 +23,22 @@ window.onload = event => {
 
     // mark the section as "currently collapsed"
     element.setAttribute("data-collapsed", "true");
-     
   }
 
   function expandSection(element) {
     // get the height of the element's inner content, regardless of its actual size
     var sectionHeight = element.scrollHeight;
-    console.log(sectionHeight);
     // have the element transition to the height of its inner content
     element.style.height = sectionHeight + "px";
 
     // when the next css transition finishes (which should be the one we just triggered)
-    element.addEventListener("transitionend", function (e) {
-      console.log("transition ended");
+    element.addEventListener("transitionend", function(e) {
       // remove this event listener so it only gets triggered once
       element.removeEventListener("transitionend", arguments.callee);
 
       // remove "height" from the element's inline styles, so it can return to its initial value
       //element.style.height = null;
     });
-
-
   }
 
   const sectionMargin = 50;
@@ -95,11 +90,16 @@ window.onload = event => {
     ".js-agenda__link.--secondary"
   );
 
-  const makePrimaryActive = link =>
-    primaryMenuLinks[link].classList.add("--active");
+  const makePrimaryActive = link => {
+    if (primaryMenuLinks.length > link)
+      primaryMenuLinks[link].classList.add("--active");
+  };
 
-  const removePrimaryActive = link =>
-    primaryMenuLinks[link].classList.remove("--active");
+  const removePrimaryActive = link => {
+    if (primaryMenuLinks.length > link)
+      primaryMenuLinks[link].classList.remove("--active");
+  };
+
   const removePrimaryAllActive = () =>
     [...Array(primarySections.length).keys()].forEach(link =>
       removePrimaryActive(link)
@@ -108,15 +108,15 @@ window.onload = event => {
   const makeMenuContainerActive = link => {
     if (secondaryMenuContainers.length > link) {
       secondaryMenuContainers[link].classList.add("--active");
-      let isCollapsed = secondaryMenuContainers[link].getAttribute('data-collapsed') === 'true';
-    
-      if(isCollapsed) {
+      let isCollapsed =
+        secondaryMenuContainers[link].getAttribute("data-collapsed") === "true";
+
+      if (isCollapsed) {
         expandSection(secondaryMenuContainers[link]);
-        secondaryMenuContainers[link].setAttribute('data-collapsed', 'false')
+        secondaryMenuContainers[link].setAttribute("data-collapsed", "false");
       } else {
-        collapseSection(secondaryMenuContainers[link])
+        collapseSection(secondaryMenuContainers[link]);
       }
-      
     }
   };
 
@@ -124,21 +124,25 @@ window.onload = event => {
     if (secondaryMenuContainers.length > link)
       secondaryMenuContainers[link].classList.remove("--active");
 
-      let isCollapsed = secondaryMenuContainers[link].getAttribute('data-collapsed') === 'true';
-    
-      if(isCollapsed) {
-       // do nothing really
-      } else {
-        collapseSection(secondaryMenuContainers[link])
-      }
+    let isCollapsed =
+      secondaryMenuContainers[link].getAttribute("data-collapsed") === "true";
+
+    if (isCollapsed) {
+      // do nothing really
+    } else {
+      collapseSection(secondaryMenuContainers[link]);
+    }
   };
   const removeMenuContainerAllActive = () =>
     [...Array(primarySections.length).keys()].forEach(link =>
       removeMenuContainerActive(link)
     );
 
-  const makeSecondaryActive = link =>
-    secondaryMenuLinks[link].classList.add("--active");
+  const makeSecondaryActive = link => {
+    if (secondaryMenuLinks.length > link)
+      secondaryMenuLinks[link].classList.add("--active");
+  };
+
   const removeSecondaryActive = link =>
     secondaryMenuLinks.length > link - 1
       ? secondaryMenuLinks[link].classList.remove("--active")
@@ -148,13 +152,10 @@ window.onload = event => {
       removeSecondaryActive(link)
     );
 
-
-    // Collapse all !!
-    removeSecondaryAllActive();
-    removeMenuContainerAllActive();
-    removePrimaryAllActive();
-
-
+  // Collapse all !!
+  removeSecondaryAllActive();
+  removeMenuContainerAllActive();
+  removePrimaryAllActive();
 
   window.onscroll = () => {
     const currentPrimary =
@@ -186,11 +187,4 @@ window.onload = event => {
       makeSecondaryActive(currentSecondary);
     }
   };
-
- 
-
-
 };
-
-
-
