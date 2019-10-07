@@ -13,6 +13,10 @@
       name: "Custom ores"
       id: "section-custom_ores"
       class: "wiki-section"
+    - file: "commands.md"
+      name: "Commands"
+      id: "section-commands"
+      class: "wiki-section"
   
 - id: "skyblock"
   link: /skyblock
