@@ -27,10 +27,10 @@
 ## Links + Info
     /donatepls : brings up link to the shop
     /rules : link to the rules on the website
-    /rulebook : opens rulebook gui
-    /rulebook give : gives a hard copy of the rules in game
-    /qrules : opens quick rulebook gui
-    /qrules give : gives a hard copy of the quick rules in game
+    /rulebook : opens rulebook gui - coming soon
+    /rulebook give : gives a hard copy of the rules in game - coming soon
+    /qrules : opens quick rulebook gui - coming soon
+    /qrules give : gives a hard copy of the quick rules in game - coming soon
     /discord : link to our discord
     /website : website link    
     
@@ -48,7 +48,14 @@
     /-skillname- -page- : shows different help pages  
     /mcscorboard keep - keeps scoreboard up
     /mcscorboard clear : clear the scoreboard
-    /mcscorboard time -n- : clear the scoreboard after -n- seconds    
+    /mcscorboard time -n- : clear the scoreboard after -n- seconds   
+    /party  : displays party information
+    /party create -name- : create an mcmmo party
+    /party invite <player> : invite player to the party
+    /partychat or /p -message- : hit enter without a message to chat in party chat
+    /party leave : leave party
+    /party accept : join party
+    /party xpshare equal/none : set party exp share, players do need to be within a radius to benefit from shared exp gain
        
 ## Money
     /market - Warp to the server market
@@ -58,7 +65,7 @@
     
  ## Voting
     /vote : displays sites for voting
-    /vote gui : shows more info on voting including total votes
+    /vote gui : shows more info on voting including total votes - temporarily unavailable
     /milestones : shows the MONTHLY rewards for voting
     
  ## Misc
@@ -72,6 +79,7 @@
     /pet : opens the pets gui, right click to interact with pet. Remove pet will just make them go away not delete them. Can be obtained from companion eggs found in vote crates.
  
 ## Job Perks! 
+    /effects : opens the effects gui, if this is the first time you've unlocked an effect i.e. night vision you may need to relog before it applies
     /top : put you up the top block above you, unlocked with /jobs
     /feed : unlocked with /jobs 
     /heal : unlocked with /jobs
