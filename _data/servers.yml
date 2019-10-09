@@ -52,3 +52,14 @@
       name: "Punishment guidelines"
       id: "section-punishment_guidelines"
       class: "wiki-section"
+- id: "staff"
+  link: /staff
+  name: "staff"
+  description: "Staff"
+  dropdown:
+    img: bow.svg
+  sections:
+    - file: "about.md"
+      name: "about"
+      id: "section-about"
+      class: "wiki-section"

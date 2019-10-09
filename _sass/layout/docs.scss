@@ -8,6 +8,14 @@
     "sidebar content";
   grid-template-columns: 250px auto;
 
+  @media only screen and (max-width: 850px) {
+    grid-template-areas:
+    "nav"
+    "content";
+    grid-template-columns: auto;
+	}
+
+
   &-section {
     padding-bottom: 2.5rem;
   }
@@ -22,10 +30,14 @@
     position: sticky;
     top: 0;
     padding: 15px;
-    height: 25vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     grid-area: sidebar;
+
+    @media only screen and (max-width: 850px) {
+      display: none;
+    }
   }
 
   &__content {
