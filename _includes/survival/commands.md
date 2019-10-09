@@ -46,8 +46,8 @@
 * {% mc_cmd /mctop -skill-  %}: shows top 10 players for the skill
 * {% mc_cmd /-skill-  %}: shows info for skill plus info about bonuses
 * {% mc_cmd /-skillname- -page-  %}: shows different help pages  
-/mcscorboard keep - keeps scoreboard up
-* { % mc_cmd /mcscorboard clear  %}: clear the scoreboard
+* {% mc_cmd /mcscorboard keep  %}: keeps scoreboard up
+* {% mc_cmd /mcscorboard clear  %}: clear the scoreboard
 * {% mc_cmd /mcscorboard time -n-  %}: clear the scoreboard after -n- seconds   
 * {% mc_cmd /party   %}: displays party information
 * {% mc_cmd /party create -name-  %}: create an mcmmo party
