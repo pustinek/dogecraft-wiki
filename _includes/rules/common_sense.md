@@ -2,14 +2,20 @@
 # General Rules
 
 ## Common Sense 
-1. We do not allow duping. Of any kind. ​
-2. Listen to staff. Rules are a guideline. Staff enforce the rules. A nice staff member may forgive your spam, don't expect the next one ( or even the same one ) to forgive you next time. ​
-3. Report glitches you find to staff. Do not ABUSE them. ​
-4. Report issues TO STAFF. Do NOT take matters into your own hands to resolve grief etc.​
+1. We do not allow duping. Of any kind. 
+2. Listen to staff. Rules are a guideline. Staff enforce the rules. A nice staff member may forgive your spam, don't expect the next one ( or even the same one ) to forgive you next time. 
+3. Report glitches you find to staff. Do not ABUSE them. 
+4. Report issues to STAFF. Do NOT take matters into your own hands to resolve grief etc.
 
 ## Alt Accounts 
 1. Do not use more than 2 accounts on the server at one time. More than 2 will get you and the other accounts banned. If you avoid this ban you will be permabanned. 
 2. Free accounts - please understand that these are technically against Mojangs rules. If you are on a free account you might lose access to that account. This is not OUR fault or problem. There is nothing we can do to help you. We will not give you items from that account. We will not be able to give you access to cshops from the other accounts etc. This is also for your protection as we cannot be certain who the account really belongs to. Please do yourself a favor and get a legitimate Minecraft account. 
+3. If your main account is banned and you use an alt this is called ban evasion. Your temp ban will now be permaban.
+
+## Inactive
+1. If you are inactive for 30 days or more people may request that your residence or other property be removed.
+2. Your land and items may be rolled back or given away at this point. This is more likely to happen on pieces of land that are nearly barren/empty. 
+3. This is up to staff discretion but only Admin and above can change/remove/alter the actual residence.
 
 ## Mods/Texturepacks
 1. Any use of the above that gives you an advantage over others is not allowed. If you have questions about particular ones please ask before using them.
@@ -47,7 +53,7 @@
 
 ## Encroachment
 1. Our world is a limited size at the moment, when able please ask before claiming land in-between someones claims. This is a common courtesy issue.
-2. IF you box someone in on all sides so they cannot expand their res at all you may be asked to delete your claim.
+2. If you box someone in on all sides so they cannot expand their res at all you may be asked to delete your claim.
 
 ## Grinders, Hoppers, auto-clickers, auto farms
 1. Auto farms/grinders with spawners are NOT allowed. Auto farms are allowed if there are no spawners involved. Please make auto farms toggle if you can and do not afk at them. 
