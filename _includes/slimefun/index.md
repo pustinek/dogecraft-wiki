@@ -1,4 +1,4 @@
 
-# Comming soon
+# Coming soon
 
-Slime fun comming soon !
+Slime fun coming soon !
