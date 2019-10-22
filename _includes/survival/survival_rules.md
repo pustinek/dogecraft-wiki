@@ -1,4 +1,5 @@
-## Survival Rules
+
+# Survival Rules
 
 ## Trapping
 1. Do NOT build things or devices that trap/harm or kill a player. This includes giant holes without securing them or teleporting a player and killing them. 

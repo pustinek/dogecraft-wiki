@@ -1,7 +1,4 @@
 
-
-
-
 # Custom Ores
 
 1. Breaking ore in the /resource world gives you a chance to get rare gems!
