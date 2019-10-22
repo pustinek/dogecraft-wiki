@@ -21,9 +21,9 @@
       name: "Commands"
       id: "section-commands"
       class: "wiki-section"
-- id: "skyblock"
-  link: /skyblock
-  name: "skyblock"
+- id: "slimefun"
+  link: /slimefun
+  name: "slimefun"
   description: "Coming Soon"
   dropdown:
     img: fishing-rod.svg
@@ -32,9 +32,9 @@
       name: "index"
       id: "section-index"
       class: "wiki-section"
-- id: "slimefun"
-  link: /slimefun
-  name: "slimefun"
+- id: "skyblock"
+  link: /skyblock
+  name: "skyblock"
   description: "Coming Soon"
   dropdown:
     img: creaper.svg
