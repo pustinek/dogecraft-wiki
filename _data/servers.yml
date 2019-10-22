@@ -1,10 +1,14 @@
 - id: "survival"
   link: /survival
   name: "survival"
-  description: "Check out the tutorial for survival"
+  description: "Rules and tutorial for survival"
   dropdown:
     img: diamond-pickaxe.svg
   sections:
+    - file: "survival_rules.md"
+      name: "Survival Rules"
+      id: "section-survival_rules"
+      class: "wiki-section"
     - file: "claiming_land.md"
       name: "Claiming land"
       id: "section-claiming_land"
@@ -21,7 +25,7 @@
 - id: "skyblock"
   link: /skyblock
   name: "skyblock"
-  description: "Check out all the options for skyblock"
+  description: "Coming Soon"
   dropdown:
     img: creaper.svg
   sections:
@@ -36,7 +40,7 @@
 - id: "rules"
   link: /rules
   name: "rules"
-  description: "Rules accross all our servers"
+  description: "General Rules"
   dropdown:
     img: hand.svg
   sections:
@@ -55,7 +59,7 @@
 - id: "staff"
   link: /staff
   name: "staff"
-  description: "Staff"
+  description: "More about our Staff"
   dropdown:
     img: bow.svg
   sections:
