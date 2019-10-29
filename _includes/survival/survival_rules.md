@@ -34,6 +34,8 @@
 7. Building on top of the nether for gold farms is allowed. 
 8. Auto fish farms are not allowed.
 9. Auto smelters are allowed. Please toggle when not in use.
+10. No lag machines or excessive redstone. If staff deems your machine or build to be lagging the server or deem it to be against the rules please dismantle it asap. It may be dismantled for you if it causes server issues. 
+11. Intentionally trying to lag or crash the server will result in a permanent ban.
 
 ## Market Rules
 1. If you are renting a shop and it becomes unpaid/unrented another player can rent it. They will be able to claim all the items left inside and do not have to return them. This may also happen if you OWN a shop and become inactive - 3 or more months of not logging in.
