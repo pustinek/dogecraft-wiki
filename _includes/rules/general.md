@@ -16,7 +16,8 @@ excessive character spam - "Nooooo" "no!!!!!!!!!!!!" "no?!?!!?!???!!??"<br>
 caps - "NOOOO"<br>
 T a l k i n g  l i k e  t h i s  i s  t e c h n i c a l l y  s p a m<br>
 BeCaUsE iT gEtS yOu MoRe AtTeNiTiOn<br>
-Use of the above will get you warned and then muted, after that its tempban/ban. <br>
+anythingtogetmoreattention<br>
+Use of the above will get you warned and then muted, after that its tempban/ban. Trying to AVOID these rules "because it isn't in the rules" will be handled like other rule breaking, a verbal warning followed by a warning or muting.<br>
 Please try to use the "less than 5" of the same character in a message concept. - Nooo/NOO. 
 While you still might be asked to stop it's less likely to get you in trouble.
 10. Spamming also includes PARTICIPATING or clearly trying to initiate spam. Exception is 'f' for deaths and 'gg'.
