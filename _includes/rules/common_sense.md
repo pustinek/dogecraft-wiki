@@ -16,6 +16,7 @@
 1. If you are inactive for 30 days or more people may request that your residence or other property be removed.
 2. Your land and items may be rolled back or given away at this point. This is more likely to happen on pieces of land that are nearly barren/empty. 
 3. This is up to staff discretion but only Admin and above can change/remove/alter the actual residence.
+4. Extended AFKing ( as determined by staff ) will result in a kick. Repeat offenders will receive a warning and escalation from there. NOTE this is not "AFK at grinders" this is just afk in lobby or other places. See survival rules for more info on other afk offenses. 
 
 ## Mods/Texturepacks
 1. Any use of the above that gives you an advantage over others is not allowed. If you have questions about particular ones please ask before using them.
