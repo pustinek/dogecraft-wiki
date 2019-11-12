@@ -29,3 +29,4 @@ While you still might be asked to stop it's less likely to get you in trouble.
 16. If you have issues with another player please contact staff. Do NOT contact the other player OUTSIDE of minecraft. This is NOT okay. Please come to staff to help resolve the issue. Harassment OUTSIDE of game and INSIDE of game are taken very seriously. 
 17. Even as a joke please do not talk about demoting staff, if you have a complaint please take it to the discord or the forums. Arguing in game against a staff member will only escalate your punishment faster. 
 18. Please avoid naming items, tools or weapons anything that would violate the general chat rules. This includes keeping it pg13, when in doubt please pick a more family friendly name. We may ask you to rename the item if we feel it doesn't comply with the rules. 
+19. English only in main chat please. Keep other languages to pms or party chat. 
