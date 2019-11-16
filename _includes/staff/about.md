@@ -39,10 +39,10 @@ Our team each have their own unique set of abilities, we use these all together 
 ### Meet the Current Team<br>
 Below is a listing of our current staff team<br>
 Owners: Niko302, pustinek<br>
-Admins: Flioghty, Annie_Key<br>
-Mods: joaco1258<br>
+Admins: Flioghty, Emelina<br>
+Mods: joaco1258, Rocko49139<br>
 Lead Architect: BjoernBrandbog<br>
-Architects: encro_, VForViking, Luminy_<br>
-Helpers: Rocko49139, Patchwork_, Depres_Sean, OriginKnightWolf<br>
+Architects: encro_, VForViking, skreelookabee<br>
+Helpers: Patchwork_, OriginKnightWolf<br>
 Manager: LadyAnime<br>
 Trusted Players: While we love our trusted players and think of them as part of our team and family we will not be listing them here. Many of them help out when they can but otherwise like to live a quiet minecraft life. If you need help please contact the staff listed above. =) 
