@@ -59,16 +59,22 @@
        
 ## Money
 * {% mc_cmd /market %}: Warp to the server market
+* {% mc_cmd /bal  %}: View balance - can also do /money
 * {% mc_cmd /bal -player-  %}: View player's balance
 * {% mc_cmd /baltop  %}: View top balances globally
 * {% mc_cmd /pay -player- -amount-  %}: Pay player money
-    
+
+
 ## Voting
 * {% mc_cmd /vote  %}: displays sites for voting
 * {% mc_cmd /vote gui  %}: shows more info on voting including total votes - temporarily unavailable
-* {% mc_cmd /milestones  %}: shows the MONTHLY rewards for voting
+* {% mc_cmd /milestones  %}: shows the MONTHLY rewards for voting - can also do /rewards
+* {% mc_cmd /hvote  %}: Shows hvote options
+* {% mc_cmd /hvote top  %}: Shows current top voters
+* {% mc_cmd /hvote stats  %}: See your vote stats 
     
 ## Misc
+* {% mc_cmd /warnings  %} : See your active warnings
 * {% mc_cmd [i]  %} : Show item in your hand
 * {% mc_cmd /ah  %}: opens auction house gui
 * {% mc_cmd /ah sell -price- -amount-  %}: sells item in your hand for the price, amount can be left off if it is a single item, unlocked with /ranks
