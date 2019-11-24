@@ -2,14 +2,14 @@
 # Staff
 
 ## Roles
-Owners, Admins, Moderators, Helpers, Architects, Manager and Trusted: below is a list of who can do what.
+Owners, Admins, Moderators, Helpers, Architects, Manager and Interns: below is a list of who can do what.
 
-### Trusted
-Our Trusted players are members of the community that have proven to be outstanding citizens. These hand picked citizens are trusted with chat moderation when no other staff is online to enforce our chat rules. These players do not have the ability to fix grief but are usually well versed in our game. Please feel free to ask them questions if there are no Helpers online.
-<br><b>Skill Set: Moderates chat when staff are not online, good knowledge of our server, outstanding members of our society. </b>
+### Interns
+Our Trusted players are members of the community that have proven to be outstanding citizens. These hand picked citizens are trusted with chat moderation to enforce our chat rules. If an Interrn asks you to stop spamming etc please listen otherwise they will follow through with the correct reprimand/punishment. These players do not have the ability to fix grief but are usually well versed in our game. Please feel free to ask them questions. Interns are our first official level of staff. To become an Intern please apply on our forums.
+<br><b>Skill Set: Moderates chat, good knowledge of our server, outstanding members of our society. </b>
 
 ### Helpers
-Our AMAZING Helpers are here to help! Need some grief fixed? Have a question about commands? Helpers can help! Helpers are also our chat moderators. If a Helper asks you to stop spamming etc please listen otherwise they will follow through with the correct reprimand/punishment. Helper is our first official level of staff and handle MOST issues. Please contact a Helper before seeking an admin or the owner.
+Our AMAZING Helpers are here to help! Need some grief fixed? Have a question about commands? Helpers can help! Helpers are also chat moderators. Helpers handle MOST inside the minecraft world. Please contact a Helper before seeking an admin or the owner.
 <br><b>Skill Set: Chat moderators, fixes common problems, answers questions, loves to help out. </b>
 
 ### Manager
@@ -45,4 +45,4 @@ Lead Architect: BjoernBrandbog<br>
 Architects: encro_, VForViking, skreelookabee<br>
 Helpers: Patchwork_, OriginKnightWolf<br>
 Manager: LadyAnime<br>
-Trusted Players: While we love our trusted players and think of them as part of our team and family we will not be listing them here. Many of them help out when they can but otherwise like to live a quiet minecraft life. If you need help please contact the staff listed above. =) 
+Interns: Chewcat1, MadamWillow, Yurripe, TaylorLeighGH
