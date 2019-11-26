@@ -24,7 +24,7 @@ While you still might be asked to stop it's less likely to get you in trouble.
 11. Please do not intentionally give players false/fake information. "Alt + f4" is not how to craft anything. 
 12. Please do not /ignore staff or trusted players as you will not see their verbal warnings and may end up being /warned for chat rule violations.
 13. Please do not talk about killing yourself, in game or otherwise, this makes everyone uncomfortable. Please contact a suicide hotline if you feel you need help. 
-14. If you are MUTED in game please do NOT talk through the discord in the survival channel. This is mute evasion and you will have your discord perms removed. 
+14. If you are MUTED in game please do NOT talk through the discord in the survival/slimefun channels. This is mute evasion and you will have your discord perms removed. 
 15. Likewise if you have someone /ignored please don't go on the discord to talk to them through the survival channel.
 16. If you have issues with another player please contact staff. Do NOT contact the other player OUTSIDE of minecraft. This is NOT okay. Please come to staff to help resolve the issue. Harassment OUTSIDE of game and INSIDE of game are taken very seriously. 
 17. Even as a joke please do not talk about demoting staff, if you have a complaint please take it to the discord or the forums. Arguing in game against a staff member will only escalate your punishment faster. 
