@@ -40,9 +40,9 @@ Our team each have their own unique set of abilities, we use these all together 
 Below is a listing of our current staff team<br>
 Owners: Niko302, pustinek<br>
 Admins: Flioghty, Emelina<br>
-Mods: joaco1258, Rocko49139<br>
-Lead Architect: BjoernBrandbog<br>
-Architects: encro_, VForViking, skreelookabee<br>
+Mods: Rocko49139<br>
+Lead Architect: encro_<br>
+Architects: skreelookabee<br>
 Helpers: Patchwork_, OriginKnightWolf<br>
 Manager: LadyAnime<br>
-Interns: Chewcat1, MadamWillow, Yurripe, TaylorLeighGH
+Interns: Chewcat1, MadamWillow, Yurripe, red_man234
