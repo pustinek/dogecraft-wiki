@@ -39,7 +39,7 @@ Our team each have their own unique set of abilities, we use these all together 
 ### Meet the Current Team<br>
 Below is a listing of our current staff team<br>
 Owners: Niko302, pustinek<br>
-Admins: Flioghty, Rocko49139<br>
+Admins: Flioghty, Emelina, Rocko49139<br>
 Mods: <br>
 Helpers: Patchwork_, OriginKnightWolf, MadamWillow, red_man234<br>
 Manager: LadyAnime<br>
@@ -51,9 +51,10 @@ encro_ ( Main Lobby 2019, Slimefun Spawn, Slimefun Market, Slimefun resource spa
 Chewcat1 ( Halloween event 2019 )<br>
 MadamWillow ( Halloween event 2019 )<br>
 8bitbugsYT ( Halloween event 2019 )<br>
-BjoernBrandborg ( Survival Market 2019, Main Lobby 2019, Slimefun Spawn, Slimefun Market, Slimefun resource spawn, Winter event 2019 )<br>
-VforViking ( Main Lobby 2019, Slimefun Market, Winter event 2019 )<br>
+BjoernBrandborg ( Survival Spawn 2019, Summer Event 2019, Survival Market 2019, Main Lobby 2019, Slimefun Spawn, Slimefun Market, Slimefun resource spawn, Winter event 2019 )<br>
+VforViking ( Summer Event 2019, Main Lobby 2019, Slimefun Market, Winter event 2019 )<br>
 Luminy_ ( Survival Market 2019 )
+joaco1258 ( Summer Event 2019 )
 
 <br>
 We also have Veterans that are retired staff. We love and appreciate you all and hope continue to enjoy playing on our server. Thank you all for being staff and doing a wonderful job.
