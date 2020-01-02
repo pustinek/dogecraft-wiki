@@ -16,9 +16,9 @@ Our AMAZING Helpers are here to help! Need some grief fixed? Have a question abo
 Have a problem? Need to report a bug/glitch or issue? Please see the Manager. Our Manager works hard to put together weekly staff meetings and keep everyone in the loop on what's going on and when. The Manager can help direct you to the right member of staff to solve your issue. 
 <br><b>Skill Set: Paperwork, takes notes, gathers data, Public Relations, Human Relations, secretary.</b>
 
-### Architects
-Here to build our beautiful world. These are the hardworking people that make the lobby, spawn, events and other areas we see on a regular basis. They often go un-thanked for their hard work and put in long hours. Our team is very close and works well together. Please feel free to contact them if there is no other staff online but understand they are likely working very hard on project with strict deadlines. 
-<br><b>Skill Set: Builds all sorts of things, creative, hardworking, works closely with other Architects.</b>
+### Builders
+A special note about our builders. We appreciate all our staff and know they work very hard. Our build team recently has undergone a lot of changes. From now on we will be looking for good builders to work with us on a test server to build events and other things we need. Please contact LadyAnime if you would like to be considered to be on this list. Not everyone will be able to help out but we appreciate everyone that applies for it and will keep you in mind for future projects.
+Current list of projects for builders: None at the moment. Please check back later.
 
 ### Moderators and Admins
 Our Moderators and Admins work closely together to tackle the bigger issues when they arise. Moderators are often players that have been Helpers for a long time and are trusted with the responsibility of bigger jobs. Our Moderators are often on call and pop in and out of game when needed. If you feel you need a Mod or Admin please talk to a Helper before hand. Admins are the only ones besides the Owners that can remove/change/alter a residence. If you need help with this particular issue and have asked a Helper please go on our discord and report the issue under "support". 
@@ -39,10 +39,21 @@ Our team each have their own unique set of abilities, we use these all together 
 ### Meet the Current Team<br>
 Below is a listing of our current staff team<br>
 Owners: Niko302, pustinek<br>
-Admins: Flioghty, Emelina<br>
-Mods: Rocko49139<br>
-Lead Architect: encro_<br>
-Architects: skreelookabee<br>
-Helpers: Patchwork_, OriginKnightWolf<br>
+Admins: Flioghty, Rocko49139<br>
+Mods: <br>
+Helpers: Patchwork_, OriginKnightWolf, MadamWillow, red_man234<br>
 Manager: LadyAnime<br>
-Interns: Chewcat1, MadamWillow, Yurripe, red_man234
+Interns: Chewcat1<br><br>
+
+Build List: <br>
+skreelookabee ( Halloween event 2019, Slimefun Market, Winter event 2019)<br>
+encro_ ( Main Lobby 2019, Slimefun Spawn, Slimefun Market, Slimefun resource spawn, Winter event 2019, Upcoming project )<br>
+Chewcat1 ( Halloween event 2019 )<br>
+MadamWillow ( Halloween event 2019 )<br>
+8bitbugsYT ( Halloween event 2019 )<br>
+BjoernBrandborg ( Survival Market 2019, Main Lobby 2019, Slimefun Spawn, Slimefun Market, Slimefun resource spawn, Winter event 2019 )<br>
+VforViking ( Main Lobby 2019, Slimefun Market, Winter event 2019 )<br>
+Luminy_ ( Survival Market 2019 )
+
+<br>
+We also have Veterans that are retired staff. We love and appreciate you all and hope continue to enjoy playing on our server. Thank you all for being staff and doing a wonderful job.
