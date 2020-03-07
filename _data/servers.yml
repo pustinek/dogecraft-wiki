@@ -24,7 +24,7 @@
 - id: "slimefun"
   link: /slimefun
   name: "slimefun"
-  description: "Coming Soon"
+  description: "Rules and tutorial for slimefun"
   dropdown:
     img: fishing-rod.svg
   sections:
@@ -35,7 +35,7 @@
 - id: "skyblock"
   link: /skyblock
   name: "skyblock"
-  description: "Coming Soon"
+  description: "Rules and tutorial for skyblock"
   dropdown:
     img: creaper.svg
   sections:
