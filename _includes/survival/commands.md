@@ -1,6 +1,6 @@
 
 # Commands
-
+A test of commands
 ## Worlds and Warps
 * {% mc_cmd /spawn %}: Warp to spawn
 * {% mc_cmd /market  %}: Warp to market
